@@ -1,0 +1,12 @@
+br\com\medicosapi\medicos\api\resources\JavaEE8Resource.class
+br\com\medicosapi\medicos\api\beneficiarios\Beneficioario.class
+br\com\medicosapi\medicos\api\beneficiarios\sexoEnum.class
+br\com\medicosapi\medicos\api\itens\Itens.class
+br\com\medicosapi\medicos\api\medicos\Medicos.class
+br\com\medicosapi\medicos\api\JAXRSConfiguration.class
+br\com\medicosapi\medicos\api\prontuarios\ProntuariosResouce.class
+br\com\medicosapi\medicos\api\NewCrossOriginResourceSharingFilter.class
+br\com\medicosapi\medicos\api\medicos\MedicosResource.class
+br\com\medicosapi\medicos\api\prontuarios\Prontuarios.class
+br\com\medicosapi\medicos\api\beneficiarios\BeneficiariosResouce.class
+br\com\medicosapi\medicos\api\itens\ItensResouce.class
